@@ -1,0 +1,28 @@
+.img-txt{
+	display: flex;
+  	align-items: center;
+  	justify-content: space-between;
+	padding: 0px;
+}
+
+.img-txt img{
+	width: 100px;
+	padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+    border-radius: 50%;
+    flex-basis: 250px;
+}
+
+.img-txt {
+ 	display: flex;
+	flex-wrap: wrap;
+	text-align: justify;
+}
+.titreettexte{
+  flex-basis: 250px;
+	flex-grow: 1;
+	margin: 50px;
+}

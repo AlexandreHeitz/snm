@@ -1,0 +1,30 @@
+.header {
+	position: fixed;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	padding: 20px;
+	background-color: #ffafa9;
+	height: 30px;
+	width: 100%;
+}
+
+.header h3{
+	font-family: 'Luckiest Guy';
+	font-size: 14px;
+}
+
+.header a {
+	font-family: 'Luckiest Guy';
+	color: #ffffff;
+	font-size: 18px;
+}
+
+.header a:hover{
+	color: #6b4947;
+	transition: 0.4s;
+}
+
+#nav-links {
+	float: right;
+}

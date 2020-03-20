@@ -1,0 +1,14 @@
+.btn-rose  {
+	background-color: #ffafa9;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #ffffff;
+	font-weight: bold;
+	font-family: 'Indie Flower', sans-serif;
+}
+
+.btn-rose:hover {
+	background-color: #ffafa9;
+	color: #6b4947;
+	transition: 0.4s;
+}
